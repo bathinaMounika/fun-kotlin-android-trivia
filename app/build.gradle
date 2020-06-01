@@ -21,6 +21,8 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-kapt'
 apply plugin: 'kotlin-android-extensions'
 
+apply plugun: 'androidx.navigation.safearrgs'
+
 android {
     compileSdkVersion 28
     dataBinding {
