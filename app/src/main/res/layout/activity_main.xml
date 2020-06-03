@@ -19,8 +19,8 @@
 
         <androidx.drawerlayout.widget.DrawerLayout
                 android:id="@+id/drawerLayout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" >
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -40,6 +40,7 @@
             android:layout_height="match_parent"
                 android:id="@+id/navView"
                 android:layout_gravity="start"
-                app:menu="@menu/navdrawer_menu"/>
+                app:menu="@menu/navdrawer_menu"
+            app:headerLayout="@layout/nav_header"/>
         </androidx.drawerlayout.widget.DrawerLayout>
 </layout>
