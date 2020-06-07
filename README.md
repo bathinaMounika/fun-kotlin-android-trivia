@@ -3,4 +3,4 @@
 The Android Trivia application is an application that asks the user trivia questions about plants.  
 ## Screenshots
 
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png)
+![screenshot](https://user-images.githubusercontent.com/62980926/83969192-2aadc180-a8ec-11ea-8326-d8407e640e23.jpg)
